@@ -6,13 +6,13 @@
 
 
 🎯 Objetivo:  
-  - Identificar clientes potenicales que podrían abandonar el banco (cerrar sus cuentas).
+- Identificar clientes potenicales que podrían abandonar el banco (cerrar sus cuentas).
 
 ❌ Problema:  
-  - Los clientes están comenzando a cerrar sus cuentas en el banco, para la institución se traduce a pérdidas de ingresos.
+- Los clientes están comenzando a cerrar sus cuentas en el banco, para la institución se traduce a pérdidas de ingresos.
 
 ✅ Solución:  
-  - Creamos y probamos un modelo que identifica con buena exactitud que clientes podrían estarse planteando dejar el banco, de está forma podrían abordarlo y ofrecerle incentivos para que permanezca. 
+- Creamos y probamos un modelo que identifica con buena exactitud que clientes podrían estarse planteando dejar el banco, de está forma podrían abordarlo y ofrecerle incentivos para que permanezca. 
 
 🔢 Metodologia:  
   1- Formateo y limpieza de datos.  
