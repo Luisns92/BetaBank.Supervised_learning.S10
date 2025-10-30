@@ -1,7 +1,7 @@
 # BetaBank, Aprendizaje supervisado
 
 📖 Resúmen:  
-  -Entrenamiento y elección del mejor modelo con métricas f1-score y AUC-ROC para predecir los clientes potenciales que podrían abandonar el banco, de esta forma podríamos idear una estretegia para tratar de evitarlo.
+  - Entrenamiento y elección del mejor modelo con métricas f1-score y AUC-ROC para predecir los clientes potenciales que podrían abandonar el banco, de esta forma podríamos idear una estretegia para tratar de evitarlo.
 
 
 
